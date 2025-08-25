@@ -5,10 +5,12 @@
 **Progress:** 
 **Notes:** 
 As soon as the RSP check point assignment is ready (Greg), Colin would like to look at it and make sure he has a clear picture of how he is integrating it into RSP.
-8/25/25 sent Colin a draft of RSP assignment
+ -- 8/25/25 sent Colin a draft of RSP assignment
 
-Complete the checkpoint assignments for 253 (Greg), 330 (Nalini), and 261 (Natalie is still organizing this). This also includes making sure the other instructors for these courses have an understanding of the resource.
-Greg mentioned offering study halls for the RSPs (or anyone) this fall. Maybe 3 throughout the semester? Let's figure out when those will be, and the Career Center and RSP announcements are happy to promote those as well, as long as there is enough notice!
+Complete the checkpoint assignments for 253 (Greg), 330 (Nalini), and 261 (Natalie is still organizing this).
+
+Greg mentioned offering study halls for the RSPs (or anyone) this fall.
+Scheduled for last 4 Mondays in September.
 
 ## Pepper
 Robot project
